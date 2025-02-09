@@ -1,2 +1,21 @@
-
-/* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-between;
+	
+}
+.item{
+	font-size:50px;
+	width:40px;
+	height:40px;
+	background:red;
+	padding:40px;
+}
+.one{
+	background:green;
+}
+.two{
+	background:red;
+}
+.three{
+	background:blue;
+}
